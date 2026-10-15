@@ -1,0 +1,6 @@
+Metric,Value
+Test MAE,8.00058895958584
+Test RMSE,8.892439468260944
+Target Coverage,90.0
+Actual Coverage,100.0
+Average Interval Width,35.207619047619055
