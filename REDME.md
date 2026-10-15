@@ -31,4 +31,11 @@ This indicates that the interval may be overly wide and less informative for pre
 
 ## Conclusion
 The project demonstrates time-series forecasting, chronological evaluation, error measurement, and uncertainty communication. Future improvements should evaluate seasonal models and calibrate prediction intervals using time-ordered validation data.
+## Dataset
+
+The dataset used in this project is the Daily Climate Time Series Data for Delhi, India.
+
+Source: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data
+
+Download `DailyDelhiClimateTrain.csv` and place it in the same folder as the Jupyter Notebook before running the code.
 
